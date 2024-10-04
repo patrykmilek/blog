@@ -78,3 +78,11 @@ Follow these steps to set up and run the project:
 ### 9. Access the Application
 - Your Laravel application should now be accessible at [http://localhost:8000](http://localhost:8000) or [http://127.0.0.1:8000](http://127.0.0.1:8000/).
 
+### Some pictures from the website and the project.
+![1](./images/1.png)
+![2](./images/2.png)
+![3](./images/3.png)
+![4](./images/4.png)
+![5](./images/5.png)
+
+
