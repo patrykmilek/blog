@@ -76,8 +76,5 @@ Follow these steps to set up and run the project:
     ```
 
 ### 9. Access the Application
-- Your Laravel application should now be accessible at [http://localhost:8000](http://localhost:8000).
+- Your Laravel application should now be accessible at [http://localhost:8000](http://localhost:8000) or [http://127.0.0.1:8000](http://127.0.0.1:8000/).
 
-## Conclusion
-
-You have successfully set up and run the Laravel blog application using Docker. If you encounter any issues, please check the Docker and Laravel documentation for further troubleshooting.
