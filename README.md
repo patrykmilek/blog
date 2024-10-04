@@ -1,10 +1,6 @@
 
 # Laravel Blog Application
 
-## Introduction
-
-This project is a simple blog application built with Laravel and Docker. It includes features such as user authentication, blog post creation, and comment functionality. Docker is used to set up the environment, making it easy for you to run the application locally.
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
